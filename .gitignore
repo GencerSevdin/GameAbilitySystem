@@ -1,0 +1,51 @@
+####################
+# Unreal Engine
+####################
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.vs/
+*.sln
+*.suo
+*.opensdf
+*.opendb
+*.VC.db
+*.xcodeproj
+*.xcworkspace
+*.xcuserstate
+*.log
+*.tlog
+*.tmp
+*.bak
+*.cache
+
+# Derleme dosyaları
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.pch
+*.exp
+*.lib
+*.dll
+*.exe
+*.app
+*.dylib
+*.so
+
+# Rider / JetBrains
+.idea/
+*.iml
+
+# Git için sorun yaratabilecek dosyalar
+*.DS_Store
+Thumbs.db
+
+# Build klasörleri
+Build/
+
+# Git LFS önerisi dışı büyük formatlar (opsiyonel, LFS kullanmıyorsan)
+# *.uasset
+# *.umap
