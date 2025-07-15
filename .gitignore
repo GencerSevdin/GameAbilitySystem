@@ -46,6 +46,3 @@ Thumbs.db
 # Build klasörleri
 Build/
 
-# Git LFS önerisi dışı büyük formatlar (opsiyonel, LFS kullanmıyorsan)
-# *.uasset
-# *.umap
